@@ -14,3 +14,5 @@ Um Aplicativo/Site para notificar com lembretes funcionais que notificam a parti
 - React
 - shadcn-ui
 - Tailwind CSS
+
+<img width="1075" height="744" alt="image" src="https://github.com/user-attachments/assets/ef322feb-6fc9-41da-b08b-201bb32d524b" />
