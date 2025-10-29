@@ -1,13 +1,13 @@
 # Bem vindo ao Ran Notificador(Ranotify)
 
-## Projeto
+## Projeto:
 **URL:** https://ranotify.netlify.app/
 
-## Informações
+## Informações:
 
 Um Aplicativo/Site para notificar com lembretes funcionais que notificam a partir do dia e da hora que o usuario colocou
 
-## Linguagens utilizadas
+## Linguagens utilizadas:
 
 - Vite
 - TypeScript
